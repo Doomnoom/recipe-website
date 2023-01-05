@@ -1,0 +1,30 @@
+body{
+    background-color: #ab5300;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title.main{
+    font-size: 50px;
+    text-align: center;
+}
+
+.title.sub{
+    text-align: center;
+}
+
+.body-subcolor{
+    background-color: #f7e4b0;
+}
+
+.list{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
